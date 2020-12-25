@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Fresh Python pattern practice/.idea/Fresh Python pattern practice.iml" filepath="$PROJECT_DIR$/../Fresh Python pattern practice/.idea/Fresh Python pattern practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List Practice/.idea/List Practice.iml" filepath="$PROJECT_DIR$/../List Practice/.idea/List Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Patterns/.idea/Patterns.iml" filepath="$PROJECT_DIR$/../Patterns/.idea/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python Codes.iml" filepath="$PROJECT_DIR$/.idea/Python Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../codezen/.idea/codezen.iml" filepath="$PROJECT_DIR$/../codezen/.idea/codezen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hackkerrank coding/.idea/hackkerrank coding.iml" filepath="$PROJECT_DIR$/../hackkerrank coding/.idea/hackkerrank coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pattern part2/.idea/pattern part2.iml" filepath="$PROJECT_DIR$/../pattern part2/.idea/pattern part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Patterns/pattern_part2/.idea/pattern_part2.iml" filepath="$PROJECT_DIR$/../Patterns/pattern_part2/.idea/pattern_part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project/.idea/project.iml" filepath="$PROJECT_DIR$/../project/.idea/project.iml" />
+    </modules>
+  </component>
+</project>
