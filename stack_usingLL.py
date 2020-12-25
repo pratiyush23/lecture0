@@ -39,3 +39,5 @@ class stack:
 
     def isEmpty(self):
         return self.size() == 0
+
+    print("Hello world")
